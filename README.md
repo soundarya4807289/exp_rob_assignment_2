@@ -24,7 +24,7 @@ The architecture shows the working principle of the program. First the "command_
   
 For the State Machine Diagram:
 
-![](https://github.com/soundarya4807289/exp_rob_assignment_2/blob/main/Assignment_2_architecture.png)
+![](https://github.com/soundarya4807289/exp_rob_assignment_2/blob/main/State_machine_ass2.png)
 
 The State Machine has 3 states:
   - NORMAL: Main state in which the robot walks randomly until the "play" command arrives and goes to PLAY state, if not, goes to SLEEP state.
